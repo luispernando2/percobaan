@@ -20,6 +20,8 @@
           <li class="nav-item"><a class="nav-link" href="/">Home</a></li>
           <li class="nav-item"><a class="nav-link" href="/upload">Upload</a></li>
           <li class="nav-item"><a class="nav-link" href="/products">Produk</a></li>
+          
+          <li class="nav-item"><a class="nav-link" href="/products">Produk 2</a></li>
         </ul>
       </div>
     </div>
